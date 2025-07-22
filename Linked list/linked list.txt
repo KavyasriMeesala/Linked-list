@@ -1,0 +1,23 @@
+Linked list : Non contagious ds
+Memory allocate
+Access
+
+1. Single LL
+2. Double LL
+3. Circular s/d LL
+
+Single Linked list
+
+head ----> Node 1 ----> Node 2----> tail/null
+
+class node :
+      def __init__(self, data):
+            self.data = data  
+            self.next = None
+
+
+Insertion :
+
+1. At begin
+2. At end
+3. At location
