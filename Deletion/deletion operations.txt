@@ -1,0 +1,4 @@
+Deleting Operations
+1. At end
+2. At beginning
+3. At value
