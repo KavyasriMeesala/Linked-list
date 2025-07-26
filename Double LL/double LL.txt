@@ -1,0 +1,9 @@
+Double Linked List
+
+Operations :
+ 1. Insertion - At begin, end, position
+ 2. Deletion  - By value
+ 3. Traversal - Forward / backward
+
+
+ head <--> node1 <--> node2 <--> node3 <--> null
